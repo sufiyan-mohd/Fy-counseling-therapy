@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fy-counseling-therapy.in/sitemap.xml
